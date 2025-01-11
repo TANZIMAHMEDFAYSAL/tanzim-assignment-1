@@ -480,3 +480,74 @@ margin-bottom: 0;
 margin-right: 20px;
 font-size: 50px;
 }
+
+
+
+
+
+
+/* .............alll colse.............. */
+
+.satelite-parent h1{
+    text-transform: capitalize;
+    font-size: 50px;
+    margin-bottom: 0;
+
+}
+
+.section-5recent-news{
+    width: 1280px;
+    height: 900px;
+    background-color: darkolivegreen;
+    
+
+}
+.parent-div{
+    background-color: rgb(252, 246, 249);
+    width: 1280px;
+    height: 402px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    border-radius: 10px;
+}
+.image-section{
+    width: 1200px;
+    height: 390px;
+    /* background-color: white; */
+    display: flex;
+    gap: 20px;
+  
+
+}
+.image-div img{
+    width: 408px;
+    height: 306px;
+    border-radius: 20px;
+
+}
+.description-div{
+    width: 744px;
+    height: 290px;
+    /* border: 2px solid yellowgreen; */
+}
+.description-div h1{
+    text-transform: capitalize;
+    font-size: 50px;
+    margin-top: 0;
+}
+.satelite-button{
+    text-transform: capitalize;
+    background-color: green;
+    color: white;
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+} 
+.satelite-button:hover{
+    background-color: crimson;
+}
+span{
+    margin-right: 20px;
+}
