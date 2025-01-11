@@ -454,3 +454,29 @@ margin-bottom: 0;
 }
 
 /* .................subcrible close................... */
+.footer-parent{
+
+    width: 1300px;
+    height: 355px;
+    background-color: rgb(233, 227, 225);
+    /* border: 2px solid red; */
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.child{
+    width: 750px;
+    height: 225px;
+    /* background-color: blanchedalmond;
+    border: 2px solid yellowgreen; */
+    text-align: center;
+}
+.foot-title{
+    text-transform: capitalize;
+    font-size: 50px;
+}
+.icons img{
+margin-right: 20px;
+font-size: 50px;
+}
