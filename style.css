@@ -71,7 +71,7 @@ main{
    
 }
 .section-container-2{
-    margin-bottom: 200px;
+    margin-bottom: 80px;
     background-color: rgb(223, 219, 214);
     height: 368px;
     width: 1280px;
@@ -101,3 +101,126 @@ main{
     text-transform: capitalize;
     line-height: 0;
 }
+
+/* the vision future part start ......section-3*/
+.future-title{
+    text-transform: capitalize;
+    font-size: 50px;
+    margin-bottom: 0;
+}
+.furute-vision-part{
+    width: 1280px;
+    height: 120px;
+    margin-bottom: 70px;
+}
+.furute-vision-part p{
+   padding-right: 10px;
+   margin-bottom: 20px;
+}
+
+.section-container-3{
+    background-color: rgb(209, 203, 203);
+    height: 900px;
+    width: 1280px;
+}
+
+/* ................close.........upper part.................. */
+
+.sec-3-mid-container-card{
+
+    display: flex;
+    gap: 30px;
+    margin-bottom: 50px;
+    /* width: 410px;
+    height: 325px; */
+   
+}
+.future-vision-card-1{
+ 
+    background-color: rgb(233, 201, 149);
+    padding: 15px;
+    border-radius: 10px;
+    
+}
+.future-vision-card-2{
+ 
+    background-color: rgb(143, 207, 151);
+    padding: 15px;
+    border-radius: 10px;
+}
+.future-vision-card-3{
+ 
+    background-color: rgb(82, 165, 190);
+    padding: 15px;
+    border-radius: 10px;
+}
+.sec-3-mid-btn-1{
+    height: 41px;
+    width: 122px;
+    text-transform: capitalize;
+    background-color: rgb(216, 137, 73);
+    border-radius: 10px;
+    color: white;
+}
+.sec-3-mid-btn-1:hover{
+    background-color: blue;
+    color: white;
+}
+.sec-3-mid-btn-2{
+    height: 41px;
+    width: 122px;
+    text-transform: capitalize;
+    background-color: rgb(53, 216, 80);
+    border-radius: 10px;
+    color: white;
+}
+.sec-3-mid-btn-2:hover{
+    background-color:rgb(95, 11, 18);
+    color: white;
+}
+.sec-3-mid-btn-3{
+    height: 41px;
+    width: 122px;
+    text-transform: capitalize;
+    background-color: rgb(73, 123, 216);
+    border-radius: 10px;
+    color: white;
+}
+.sec-3-mid-btn-3:hover{
+    background-color: rgb(21, 23, 24);
+    color: white;
+}
+
+/* ........close.......middle part......section-3  */
+
+.yunus-sorkar{
+    width: 1280px;
+    height: 256px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 10px;
+}
+.parent-image{
+    width: 1231px;
+    height: 160px;
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+
+  
+}
+
+.quotetion-image{
+   padding-top: 11px;
+
+}
+.quotetion-image p{
+    margin-bottom: 0;
+}
+.quotetion-image h3{
+    margin-bottom: 0;
+    line-height: 0;
+}
+
+/* ........close.....Dr.mohammad yunus */
