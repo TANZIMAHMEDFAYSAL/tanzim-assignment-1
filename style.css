@@ -1,8 +1,8 @@
 
 
 main{
-    display: flex;
-    justify-content: center;
+    
+    margin: 20px 30px;
 }
 
 
@@ -14,6 +14,7 @@ main{
     align-items: center;
     justify-content: center;
     border-radius: 10px;
+    margin-bottom: 50px;
    
 }
 .banner-material{
@@ -56,4 +57,47 @@ main{
     /* border: 2px solid blue; */
     height: 400px;
     width: 474px;
+}
+
+
+/* part----2 */
+
+.pillars-title{
+    text-transform: capitalize;
+    height: 48px;
+    width: 1280px;
+    font-size: 40px;
+    margin-bottom: 32px;
+   
+}
+.section-container-2{
+    margin-bottom: 200px;
+    background-color: rgb(223, 219, 214);
+    height: 368px;
+    width: 1280px;
+    align-items: center;
+}
+
+.sub-container{
+    height: 300px;
+    width: 1280px;
+    /* border: 5px solid red; */
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+   
+   
+}
+.card{
+    /* border: 5px solid green; */
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    height: 244px;
+    width:302px;
+}
+.card-title{
+    text-transform: capitalize;
+    line-height: 0;
 }
