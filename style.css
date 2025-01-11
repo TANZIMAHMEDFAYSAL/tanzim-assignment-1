@@ -1,8 +1,11 @@
-
+body{
+    background-color: darkkhaki;
+}
 
 main{
     
     margin: 20px 30px;
+    /* background-color: rgb(95, 88, 93); */
 }
 
 
@@ -201,6 +204,8 @@ main{
     justify-content: center;
     background-color: white;
     border-radius: 10px;
+    margin-bottom: 200px;
+    
 }
 .parent-image{
     width: 1231px;
@@ -224,3 +229,71 @@ main{
 }
 
 /* ........close.....Dr.mohammad yunus */
+.section-4-oponion-matter{
+    margin-top: 50px;
+    width: 1280px;
+    height: 481px;
+    background-color:rgb(194, 188, 188) ;
+    /* border: 2px solid red; */
+    margin-bottom: 200px;
+}
+.opinion-matter{
+    font-size: 50px;
+    text-transform: capitalize;
+    margin-top: 20px;
+    /* line-height: 0; */
+}
+.parent-opinionp-natter{
+    width: 1280px;
+    height: 409px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+.nav-with-table{
+    
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.table-container{
+    width: 1216px;
+    height: 345px;
+    /* border: 2px solid red; */
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: rgb(177, 221, 221);
+    width:1216px ;
+    height:72px ;
+}
+nav li{
+    list-style: none;
+    padding: 20px 10px;
+    text-transform: capitalize;
+    font-size: 30px;
+}
+table{
+    width:1216px ;
+    height:96px;
+    border-collapse: collapse;
+}
+tr,td{
+    border: 2px solid orangered;
+    font-size: 30px;
+    padding: 20px 20px;
+}
+table td button{
+    font-size: 20px;
+    width: 200px;
+    margin-left: 100px;
+    padding: 10px 5px;
+    background-color: rgb(189, 194, 194);
+    border-radius: 10px;
+
+}
