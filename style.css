@@ -235,7 +235,7 @@ main{
     height: 481px;
     background-color:rgb(194, 188, 188) ;
     /* border: 2px solid red; */
-    margin-bottom: 200px;
+    margin-bottom: 50px;
 }
 .opinion-matter{
     font-size: 50px;
@@ -300,119 +300,14 @@ table td button{
 
 /* ...........close opinion part */
 
-.section-5-recent-news{
-    width: 1280;
-    height: 1406px;
-    background-color: darkgrey;
-    margin-bottom: 200px;
-}
-.news{
-    text-transform: capitalize;
-    font-size: 50px;
-    margin-top: 0;
-    padding-top: 0;
-    margin-bottom: 0;
-}
-.recent-news-parent{
-    background-color: white;
-    width: 1280px;
-    height: 402px;
-    border-radius: 10px;
-    display: flex;
-    gap: 50px;
-    padding:20px;
-}
-.image-1{
-    width: 408px;
-    height: 306px;
-    border-radius: 10px;
-}
-.satellite-title{
-    text-transform: capitalize;
-    font-size: 30px;
-}
-span{
-    margin-right: 20px;
-}
-.satellite{
-    width: 744px;
-    height: 320px;
-}
-.news-button{
-    background-color: darkgreen;
-    text-transform: capitalize;
-    padding:  10px;
-    width: 200px;
-    color: white;
-    border-radius: 10px;
 
-
-}
-.news-button:hover{
-    background-color: blue;
-
-}
-
-/* copy part */
-.section-5-recent-news-copy{
-    width: 1280;
-    height: 1406px;
-    background-color: darkgrey;
-    margin-top: 100px;
-}
-/* .news{
-    text-transform: capitalize;
-    font-size: 50px;
-    margin-top: 0;
-    padding-top: 0;
-    margin-bottom: 0;
-} */
-.recent-news-parent{
-    background-color: white;
-    width: 1280px;
-    height: 402px;
-    border-radius: 10px;
-    display: flex;
-    gap: 50px;
-    padding:20px;
-}
-.image-1{
-    width: 408px;
-    height: 306px;
-    border-radius: 10px;
-}
-.satellite-title{
-    text-transform: capitalize;
-    font-size: 30px;
-}
-span{
-    margin-right: 20px;
-}
-.satellite{
-    width: 744px;
-    height: 320px;
-}
-.news-button{
-    background-color: darkgreen;
-    text-transform: capitalize;
-    padding:  10px;
-    width: 200px;
-    color: white;
-    border-radius: 10px;
-
-
-}
-.news-button:hover{
-    background-color: blue;
-
-}
 /* satellite part close */
 
 .section-6-donate-part{
     width: 1280px;
     height: 464px;
     background-color: rgb(237, 243, 243);
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .description{
     width: 1280px;
@@ -502,3 +397,60 @@ margin-bottom: 0;
 .button-donate button:hover{
     background-color: darkgreen;
 }
+
+/* ...........donate part close */
+
+.subcribe-part{
+    width: 1280px;
+    height: 395px;
+    background-color: rgb(180, 187, 187);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.sub-parent{
+    width: 750px;
+    height: 235px;
+    /* border: 2px solid red; */
+    
+}
+.letter{
+    text-transform: capitalize;
+    font-size: 50px;
+    margin-top: 4px;
+    margin-bottom: 0;
+}
+.news-letter{
+    text-align: center;
+}
+.button-div{
+
+}
+.btn-last-1{
+    width: 550px;
+    height: 55px;
+    margin-left: 10px;
+    
+}
+.btn-last-1 p{
+    font-size: 15px;
+    opacity: 0.3;
+}
+.btn-last-2{
+    width: 150px;
+    height: 56px;
+    background-color: darkgreen;
+    
+    
+    color: white;
+}
+.btn-last-2:hover{
+    background-color: gold;
+}
+.last-text{
+    text-align: center;
+  margin-top: 10px;
+}
+
+/* .................subcrible close................... */
