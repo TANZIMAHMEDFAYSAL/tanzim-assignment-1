@@ -304,6 +304,7 @@ table td button{
     width: 1280;
     height: 1406px;
     background-color: darkgrey;
+    margin-bottom: 200px;
 }
 .news{
     text-transform: capitalize;
@@ -312,6 +313,60 @@ table td button{
     padding-top: 0;
     margin-bottom: 0;
 }
+.recent-news-parent{
+    background-color: white;
+    width: 1280px;
+    height: 402px;
+    border-radius: 10px;
+    display: flex;
+    gap: 50px;
+    padding:20px;
+}
+.image-1{
+    width: 408px;
+    height: 306px;
+    border-radius: 10px;
+}
+.satellite-title{
+    text-transform: capitalize;
+    font-size: 30px;
+}
+span{
+    margin-right: 20px;
+}
+.satellite{
+    width: 744px;
+    height: 320px;
+}
+.news-button{
+    background-color: darkgreen;
+    text-transform: capitalize;
+    padding:  10px;
+    width: 200px;
+    color: white;
+    border-radius: 10px;
+
+
+}
+.news-button:hover{
+    background-color: blue;
+
+}
+
+/* copy part */
+.section-5-recent-news-copy{
+    width: 1280;
+    height: 1406px;
+    background-color: darkgrey;
+    margin-top: 100px;
+}
+/* .news{
+    text-transform: capitalize;
+    font-size: 50px;
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+} */
 .recent-news-parent{
     background-color: white;
     width: 1280px;
